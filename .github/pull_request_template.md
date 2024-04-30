@@ -8,7 +8,7 @@
 
 - [ ] ⚙️ Feature
 - [ ] 🪲 Bug Fix
-- [ ] 📄 Documenation Update
+- [ ] 📄 Documentation Update
 - [ ] 🧪 Tests
 - [ ] 📈 Optimization (Code Refactor, Performance Improvement, etc.)
 
