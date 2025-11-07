@@ -18,3 +18,4 @@
 - [ ] Runs locally or in dev (if available)
 - [ ] Satisfies acceptance criteria
 - [ ] Meets organization and story technical requirements
+- [ ] Includes appropriate Unit Tests
