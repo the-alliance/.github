@@ -11,6 +11,11 @@
 - [ ] 📄 Documentation Update
 - [ ] 🧪 Tests
 - [ ] 📈 Optimization (Code Refactor, Performance Improvement, etc.)
+- [ ] 🚀 Release
 
 # Checklist
 - [ ] Documentation Updated (if applicable)
+- [ ] Runs locally or in dev (if available)
+- [ ] Satisfies acceptance criteria
+- [ ] Meets organization and story technical requirements
+- [ ] Includes appropriate Unit Tests
